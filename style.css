@@ -75,9 +75,6 @@ main{
   gap: 30px;
 }
 
-.reviews:first-child{
-  padding:60px ;
-}
 
 .card_rev{
   box-shadow: 0px 30px 100px 0px rgba(17, 23, 41, 0.05);
